@@ -1,0 +1,27 @@
+[
+  {
+    "id": "idahoTimeline",
+    "title": "",
+    "focus_date": "2000-01-01 12:00",
+    "initial_zoom": "45",
+    "color": "#82530d",
+    "size_importance": "true",
+    "image_lane_height": 50,
+    "events": [
+      {
+        "id": "1393",
+        "title": "Louisiana Purchase",
+        "startdate": "1803-07-01 12:00",
+        "enddate": "1803-07-01 12:00",
+        "description": "The United States purchases Louisiana Territory.",
+        "icon": "triangle_green.png",
+        "low_threshold": "1",
+        "high_threshold": "60",
+        "importance": "45",
+        "image":"http://timeglider.com/widget/_js_history/alonzo_church.jpg",
+        "ypix": 0,
+        "slug": ""
+      }
+    ]
+  }
+]

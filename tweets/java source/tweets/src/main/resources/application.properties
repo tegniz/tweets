@@ -1,0 +1,13 @@
+# MONGODB (MongoProperties)
+spring.data.mongodb.host= 127.0.0.1
+spring.data.mongodb.port=27017 # the connection port (defaults to 27107)
+spring.data.mongodb.uri=mongodb://127.0.0.1/test # connection URL
+spring.data.mongodb.database=test
+spring.data.mongodb.authentication-database=admin
+spring.data.mongodb.grid-fs-database=
+spring.data.mongodb.username=
+spring.data.mongodb.password=
+spring.data.mongodb.repositories.enabled=true # if spring data repository support is enabled
+
+
+icons=circle_black.png,circle_blue.png,circle_gray.png,circle_green.png,circle_orange.png,circle_purple.png,circle_red.png,circle_white.png,circle_yellow.png,flag_black.png,flag_blue.png,flag_gray.png,flag_green.png,flag_orange.png,flag_purple.png,flag_red.png,flag_white.png,flag_yellow.png,halfcircle_black.png,halfcircle_blue.png,halfcircle_gray.png,halfcircle_green.png,halfcircle_orange.png,halfcircle_purple.png,halfcircle_red.png,halfcircle_white.png,halfcircle_yellow.png,inf_black.png,inf_blue.png,inf_gray.png,inf_green.png,inf_orange.png,inf_purple.png,inf_red.png,inf_white.png,inf_yellow.png,music_black.png,music_blue.png,music_gray.png,music_green.png,music_orange.png,music_purple.png,music_red.png,music_white.png,music_yellow.png,plus_black.png,plus_blue.png,plus_gray.png,plus_green.png,plus_orange.png,plus_purple.png,plus_red.png,plus_white.png,plus_yellow.png,square_black.png,square_blue.png,square_gray.png,square_green.png,square_orange.png,square_purple.png,square_red.png,square_white.png,square_yellow.png,star_black.png,star_blue.png,star_gray.png,star_green.png,star_orange.png,star_purple.png,star_red.png,star_white.png,star_yellow.png,sym_card_club.png,sym_card_diamond.png,sym_card_heart.png,sym_card_spade.png,sym_file.png,sym_goldstar.png,sym_location.png,sym_question.png,sym_warning.png,triangle_black.png,triangle_blue.png,triangle_gray.png,triangle_green.png,triangle_orange.png,triangle_purple.png,triangle_red.png,triangle_white.png,triangle_yellow.png,video.png

@@ -1,0 +1,25 @@
+[
+  {
+    "id": "idahoTimeline",
+    "title": "A History of Idaho",
+    "focus_date": "2010-07-01 12:00",
+    "initial_zoom": "45",
+    "color": "#82530d",
+    "size_importance": "true",
+    "events": [
+      {
+        "id": "1393",
+        "title": "Louisiana Purchase",
+        "startdate": "1803-07-01 12:00",
+        "enddate": "1803-07-01 12:00",
+        "description": "The United States purchases Louisiana Territory.",
+        "icon": "triangle_green.png",
+        "low_threshold": "1",
+        "high_threshold": "60",
+        "importance": "45",
+        "ypix": "0",
+        "slug": ""
+      }
+    ]
+  }
+]
